@@ -1,4 +1,5 @@
-![PyExpo logo](https://github.com/hanishdevaraj@007/NOBLE-HORIZONS/media/PyExpoLogo.png)
+
+![PyExpoLogo](https://github.com/user-attachments/assets/f97c2135-141e-4968-b686-8437ce95257f)
 ## Problem Statement
 ---
 Problem Statement ID – PYS112
