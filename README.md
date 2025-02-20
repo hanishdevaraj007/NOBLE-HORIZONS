@@ -1,5 +1,6 @@
 
-![PyExpoLogo](https://github.com/user-attachments/assets/f97c2135-141e-4968-b686-8437ce95257f)
+![PyExpoLogo](https://github.com/user-attachments/assets/69dba095-9bed-4248-ac80-246c0cf3a805)
+
 ## Problem Statement
 ---
 Problem Statement ID – PYS112
