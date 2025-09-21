@@ -1,5 +1,7 @@
+<div>
+<img src="media/pyexpo-logo.png" alt="img not found">
+</div>
 
-![PyExpoLogo](https://github.com/user-attachments/assets/69dba095-9bed-4248-ac80-246c0cf3a805)
 
 ## Problem Statement
 ---
@@ -22,6 +24,8 @@ Team ID – T022
 - Hariharan M
 - Swathi V
 
+<img src="media/team-photo.png" alt="img not found">
+
 ## Technical Stack
 ---
 - Frontend: HTML, CSS
@@ -34,7 +38,7 @@ Team ID – T022
 ### Prerequisites
 - Install Python.
 - Install Git.
-- Clone this repository: bash git clone https://github.com/hanishdevaraj@007/NOBLE-HORIZONS.git
+- Clone this repository: bash git clone https://github.com/username/repository-name.git
 ### Installation
 - Navigate to the project directory: bash cd repository-name
 
@@ -66,11 +70,11 @@ Analytics View:
 
 ## Resources
 
-📄[PowerPoint Presentation](https://github.com/your-username/your-repo-name/blob/main/T022_Noble_Horizon.pptx)  
+📄 PowerPoint Presentation:
+Click here to view the PPT
 
-
-🎥 Project Video: 
+🎥 Project Video:
 Click here to view the project demo video
 
-📹[YouTube Link:](https://www.youtube.com/@HariharanHariharan-uq9tn)
+📹 YouTube Link:
 Watch the project on YouTube
